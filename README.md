@@ -1,5 +1,5 @@
 <h2>Hello there, I'm Akash Chaudhary 🙋‍♂️</h2>
-<h3>💻👨‍💻An Android and IOS developer</h3>
+<h3>💻👨‍💻An Android and iOS developer</h3>
 
 <hr>
 
@@ -11,12 +11,12 @@
 
 <h3>Tools & Technologies</h2>
 <p>
+   <img src="https://img.shields.io/badge/Android%20-%23F7DF1E.svg?&style=for-the-badge&color=00D8FF" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/iOS%20-%23F7DF1E.svg?&style=for-the-badge&color=7044A3" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Kotlin%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Java%20-%23F7DF1E.svg?&style=for-the-badge&color=5BA8EE" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Swift%20-%23F7DF1E.svg?&style=for-the-badge&color=F7DF1E" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/C++%20-%23F7DF1E.svg?&style=for-the-badge&color=3178C6" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Android%20-%23F7DF1E.svg?&style=for-the-badge&color=00D8FF" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/IOS%20-%23F7DF1E.svg?&style=for-the-badge&color=7044A3" />&nbsp;&nbsp;
    <br />
    <img src="https://img.shields.io/badge/Adobe XD%20-%23F7DF1E.svg?&style=for-the-badge&color=470137" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Ionic%20-%23F7DF1E.svg?&style=for-the-badge&color=6DB35A" />&nbsp;&nbsp;
